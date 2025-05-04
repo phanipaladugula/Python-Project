@@ -1,6 +1,6 @@
  Pollution Analysis using India
 
-![Pollution Banner]([images/banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5c4f3orn6ieowSv7gKnRhsFV3s58FJdy-zg&s))
+
 
 ## 📘 Overview
 
