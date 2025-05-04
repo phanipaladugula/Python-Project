@@ -30,29 +30,6 @@ This project analyzes real-world air pollution data using Python. It focuses on 
 
 ---
 
-## 📷 Sample Visualizations
-
-<p align="center">
-  <img src="images/pm25_trend.png" width="400" alt="PM2.5 Trend Graph"/>
-  <img src="images/seasonal_pattern.png" width="400" alt="Seasonal Pattern"/>
-</p>
-
----
-
-## 🚀 Getting Started
-
-### 🔧 Prerequisites
-
-Make sure you have Python installed. Then install required packages:
-
-```bash
-pip install -r requirements.txt
-▶️ Run the Project
-bash
-Copy
-Edit
-python pollution_analysis.py
-Or open the Jupyter notebook in the notebooks/ folder.
 
 ✅ Outcomes
 Extracted and cleaned air pollution data
@@ -63,9 +40,7 @@ Gained actionable insights on pollution patterns
 
 Built a reusable Python pipeline for environmental data analysis
 
-📃 License
-This project is licensed under the MIT License.
-Feel free to use and contribute to the project.
+
 
 🙌 Contributions
 Contributions, issues, and suggestions are welcome!
