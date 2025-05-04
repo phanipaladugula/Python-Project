@@ -46,10 +46,3 @@ Built a reusable Python pipeline for environmental data analysis
 Contributions, issues, and suggestions are welcome!
 Let's work together for a cleaner planet 🌱
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to help you generate the sample graphs or the `requirements.txt` file next?
